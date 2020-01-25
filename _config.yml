@@ -3,3 +3,11 @@ theme: jekyll-theme-tactile
 # title: DIY Massivholz-Kinderbett Blog
 # Short description of your site
 description: Schritt für Schritt Anleitung zum Kindertraum
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://massivholzkinderbett.github.io/DIY/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "https://massivholzkinderbett.github.io/DIY/"
